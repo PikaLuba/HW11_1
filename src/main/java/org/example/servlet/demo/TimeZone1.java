@@ -11,6 +11,7 @@ import java.util.TimeZone;
 
 @WebServlet(value = "/time")
 public class TimeZone1 extends HttpServlet {
+    
 //    /time?timezone=Poland
 //    /time?timezone=Etc/GMT
     @Override
