@@ -1,0 +1,10 @@
+
+
+java:S1192""KDefine a constant instead of duplicating this literal "curentdate" 4 times.(’βΛ8ζυ³2J$dba9cbe0-85d8-447c-91bc-852539dfc218
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(λ„­Εϊÿÿÿÿ8θυ³2J$59d27687-205c-47a2-aa3b-ba23f4882ffe
+s
+java:S1948"0Make "templateConfig" transient or serializable.(ηί‘8ρυ³2J$fed3a2e6-5081-464d-bc2a-ce70acfbd7eb
+–
+java:S1989&"NHandle the following exception that could be thrown by "process": IOException.(Ϋσ³¤ϊÿÿÿÿ8φυ³2J$efd7b2b8-f24f-41b1-83e7-ac91c310b19c
+›
+java:S19891"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ςΙΒ„ψÿÿÿÿ8χυ³2J$ac72e3cc-5f0c-4759-8566-cf169eccd4d1

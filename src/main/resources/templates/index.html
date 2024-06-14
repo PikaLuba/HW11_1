@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>The current date</title>
+</head>
+<body>
+<h2>The current date: <span th:text="${curentdate != null ? curentdate : '2000-01-01 00:00:00'}"></span>!</h2>
+<form action="storeUser" method="post">
+    <label for="curentdate">Enter the current date (yyyy-MM-dd HH:mm:ss): </label>
+    <input type="text" id="curentdate" name="curentdate" required>
+    <button type="submit">Submit</button>
+</form>
+</body>
+</html>
